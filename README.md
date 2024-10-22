@@ -5,7 +5,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![arXiv](https://img.shields.io/badge/arXiv-2211.07918-b31b1b.svg)](https://arxiv.org/abs/2211.07918)
 
-
+Note that this is a legacy version of the QuDiet simulator. A fresh new version is currently in the works! Stay tuned!
 A high performance simulator that scales and eats qudits for lunch. [Read More](https://arxiv.org/abs/2211.07918)
 
 # Installation
